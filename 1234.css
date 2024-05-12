@@ -1,0 +1,63 @@
+.yrok1{
+    width:30% ;
+    height:30%;
+    background:black;
+    color:white;
+}
+body{
+    background-image:url(img/image093-7-1.jpg) ;
+    font-family: opensans;
+}
+.nazad{
+    width:7%;
+    height: 5%;  
+    color: grey; 
+}
+p{
+    display: block;
+}
+.cod{
+width: 3%;
+background: black;
+color:white;
+}
+.mauchok2{
+    background:black;
+    width:30%;
+    color:white;
+
+}
+.dobro{
+    text-align:center ;
+}
+
+.yrok1{
+    width:40% ;
+    height:40%;
+    background:orange  ;}
+.уроки{
+    background: black ;
+    width: 7%;
+    color:white;}
+
+@font-face{
+    font-family: opensans;
+    font-weight:unset ;
+    font-style:unset ;
+    src:url(fons/OpenSans.ttf)}
+.clearfix 	{text-align: none;
+    text-decoration: none;}
+
+   a{
+    text-decoration: none;
+    color: gray;
+    display: inline;
+ }
+ .bsl{
+    display: flex;
+justify-content: space-between;
+ }
+ p{
+    font-family: opensans;
+ }
+.onas{text-align:center ;}
